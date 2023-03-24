@@ -1,0 +1,8 @@
+ibf2022\batch2\ssf\frontcontroller\model\AuthResponse.class
+ibf2022\batch2\ssf\frontcontroller\controllers\ProtectedController.class
+ibf2022\batch2\ssf\frontcontroller\services\AuthenticationService.class
+ibf2022\batch2\ssf\frontcontroller\models\Login.class
+ibf2022\batch2\ssf\frontcontroller\controllers\FrontController.class
+ibf2022\batch2\ssf\frontcontroller\model\Login.class
+ibf2022\batch2\ssf\frontcontroller\FrontcontrollerApplication.class
+ibf2022\batch2\ssf\frontcontroller\respositories\AuthenticationRepository.class
